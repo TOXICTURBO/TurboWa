@@ -1,0 +1,1 @@
+{'num':'3', 'msgs':'\nWe thank you for your using Turbo WhatsApp\nThis application is free and does not cost you any purchase, we provide you with WhatsApp Plus with all the features for free\n\nDownload it now\n'}
